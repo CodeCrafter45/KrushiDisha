@@ -1,0 +1,31 @@
+buyer,crop,location,transport,demand,quality,distance
+Pune Agro Pvt. Ltd.,Onion,Pune,20,95,98,42
+Kolhapur Traders,Onion,Kolhapur,150,82,94,18
+Sangli Foods,Onion,Sangli,180,78,92,55
+Western Soy Pvt.,Soybean,Pune,60,90,97,35
+Satara Fresh,Tomato,Satara,30,88,96,25
+Krishna Agro,Wheat,Kolhapur,40,85,95,20
+Jalgaon Traders,Soyabean,Jalgaon,25,20,94,20
+Dhule Foods,Soyabean,Dhule,100,20,97,92
+Nashik Veg Market,Onion,Nashik,35,91,95,28
+Aurangabad Agro,Onion,Aurangabad,55,87,93,46
+Vidarbha Soy Mills,Soyabean,Akola,90,94,98,78
+Amravati Oil Industries,Soyabean,Amravati,80,89,96,70
+Nagpur Grain Corp.,Wheat,Nagpur,110,93,97,96
+Solapur Wheat Traders,Wheat,Solapur,60,86,94,52
+Beed Agro Foods,Wheat,Beed,75,82,92,64
+Ahmednagar Fresh,Tomato,Ahmednagar,40,92,97,34
+Pune Fresh Basket,Tomato,Pune,22,96,99,18
+Kolhapur Veg Hub,Tomato,Kolhapur,65,84,93,48
+Jalna Pulses Ltd.,Tur,Jalna,45,95,98,30
+Latur Dal Processors,Tur,Latur,58,90,96,44
+Parbhani Pulse Market,Moong,Parbhani,52,88,95,39
+Nanded Agro Traders,Moong,Nanded,70,85,94,56
+Wardha Organic Buyers,Groundnut,Wardha,85,89,97,68
+Satara Oil Mills,Groundnut,Satara,42,93,98,27
+Sangli Sesame Exporters,Sesamum,Sangli,95,91,99,58
+Pune Millet Foods,Bajra,Pune,28,87,95,22
+Kolhapur Cereals,Jowar,Kolhapur,36,90,96,26
+Jalgaon Maize Industries,Maize,Jalgaon,24,88,94,18
+Nashik Fruit Exporters,Grapes,Nashik,38,97,99,20
+Jalgaon Banana Traders,Banana,Jalgaon,18,94,98,12

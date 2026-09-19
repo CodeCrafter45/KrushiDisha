@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+body{
+  margin:0;
+  font-family: Inter, system-ui, sans-serif;
+  background:#F4F7F5;
+}
+
+@media print {
+  body * {
+    display: none;
+  }
+
+  #receipt,
+  #receipt * {
+    display: block;
+  }
+
+  #receipt {
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    padding: 30px;
+    background: white;
+  }
+}
